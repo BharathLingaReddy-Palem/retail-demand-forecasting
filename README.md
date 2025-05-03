@@ -63,13 +63,12 @@ This system uses historical sales data to train a Random Forest model that predi
 ## Technologies Used
 - Python (Pandas, Scikit-learn, Keras/TensorFlow)
 - Jupyter Notebook
-- Streamlit (for dashboard)
-- SQLite/CSV (for data storage)
+
 
 ## Libraries
 - pandas, numpy, matplotlib, seaborn
-- scikit-learn, keras, tensorflow
-- statsmodels, streamlit
+- scikit-learn
+- statsmodels
 
 ## Algorithm
 - LSTM (Long Short-Term Memory) for sequence-based demand forecasting
@@ -102,5 +101,4 @@ pip install -r requirements.txt
 ## Contributors
 - Bharath Linga Reddy
 
-## License
-[Specify License]
+
