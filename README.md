@@ -11,7 +11,7 @@ An AI-powered sales and inventory forecasting system that helps retailers optimi
 
 ## 📊 Demo
 
-![Dashboard Preview](images/dashboard_screenshot.png)
+
 
 *The interactive dashboard provides real-time insights and forecasts for business users*
 
@@ -31,13 +31,10 @@ This system uses historical sales data to train a Random Forest model that predi
 
 <table>
   <tr>
-    <td><img src="images/weekly_sales_trend.png" alt="Weekly Sales Trend" width="400"/></td>
+     <td><img src="images/top_products.png" alt="Top Products" width="400"/></td>
     <td><img src="images/sales_vs_inventory.png" alt="Sales vs Inventory" width="400"/></td>
   </tr>
-  <tr>
-    <td><img src="images/top_products.png" alt="Top Products" width="400"/></td>
-    <td><img src="images/optimal_inventory.png" alt="Optimal Inventory" width="400"/></td>
-  </tr>
+
 </table>
 
 ## 🗂️ Project Structure
