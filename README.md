@@ -53,6 +53,12 @@ This system uses historical sales data to train a Random Forest model that predi
 └── 📄 requirements.txt      ← Python packages used
 ```
 
+## Contributors
+- Bharath Linga Reddy
+
+## License
+MIT License
+
 ## Components
 1. **Data Collection**: Use historical inventory and sales data
 2. **Data Preprocessing**: Clean and organize time series data (e.g., product-wise monthly/weekly sales)
@@ -94,13 +100,3 @@ This system uses historical sales data to train a Random Forest model that predi
 ```bash
 pip install -r requirements.txt
 ```
-
-## Usage
-1. Run the Jupyter notebooks in the notebooks/ directory to see the data analysis and model development
-2. Use the Streamlit dashboard for interactive forecasting and inventory optimization
-
-## Contributors
-- Bharath Linga Reddy
-
-## License
-[Specify License]
