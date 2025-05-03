@@ -1,0 +1,11 @@
+Product_ID,Product_Name,Category,Price,Cost,Weight_kg
+P001,Product 1,Clothing,17.76,10.66,0.6
+P002,Product 2,Home Goods,17.62,10.57,0.7
+P003,Product 3,Food,34.15,20.49,0.8
+P004,Product 4,Toys,27.59,16.56,0.9
+P005,Product 5,Electronics,30.26,18.15,1.0
+P006,Product 6,Clothing,40.8,24.48,1.1
+P007,Product 7,Home Goods,54.37,32.62,1.2
+P008,Product 8,Food,46.58,27.95,1.3
+P009,Product 9,Toys,54.09,32.46,1.4
+P010,Product 10,Electronics,61.28,36.77,1.5

@@ -1,0 +1,6 @@
+Store_ID,Store_Name,Region,Size,Opening_Date
+S01,Store 1,North,Medium,2020-03-01
+S02,Store 2,South,Large,2020-05-01
+S03,Store 3,East,Small,2020-07-01
+S04,Store 4,West,Medium,2020-09-01
+S05,Store 5,Central,Large,2020-11-01

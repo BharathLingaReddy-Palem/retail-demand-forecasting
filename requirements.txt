@@ -1,0 +1,19 @@
+# Core data science libraries
+numpy==1.24.3
+pandas==2.0.2
+
+# Machine learning libraries
+scikit-learn==1.2.2
+statsmodels==0.14.0
+
+# Visualization libraries
+matplotlib==3.7.1
+seaborn==0.12.2
+plotly==5.14.1
+
+# Excel support
+openpyxl==3.1.2
+
+# Development and notebooks
+jupyter==1.0.0
+notebook==6.5.4
