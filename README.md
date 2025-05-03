@@ -11,7 +11,7 @@ An AI-powered sales and inventory forecasting system that helps retailers optimi
 
 ## 📊 Demo
 
-![Dashboard Preview](images/dashboard_screenshot.png)
+
 
 *The interactive dashboard provides real-time insights and forecasts for business users*
 
