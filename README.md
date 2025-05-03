@@ -27,18 +27,7 @@ This system uses historical sales data to train a Random Forest model that predi
 - **Interactive Dashboard**: Visualize trends, forecasts, and insights
 - **Comprehensive Reporting**: Generate detailed HTML reports with visualizations
 
-## 📈 Preview of Results
 
-<table>
-  <tr>
-    <td><img src="images/weekly_sales_trend.png" alt="Weekly Sales Trend" width="400"/></td>
-    <td><img src="images/sales_vs_inventory.png" alt="Sales vs Inventory" width="400"/></td>
-  </tr>
-  <tr>
-    <td><img src="images/top_products.png" alt="Top Products" width="400"/></td>
-    <td><img src="images/optimal_inventory.png" alt="Optimal Inventory" width="400"/></td>
-  </tr>
-</table>
 
 ## 🗂️ Project Structure
 
