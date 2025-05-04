@@ -5,7 +5,7 @@
 ![Python](https://img.shields.io/badge/Python-3.9+-blue.svg)
 ![License](https://img.shields.io/badge/License-MIT-green.svg)
 ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-1.2.2-orange.svg)
-![Streamlit](https://img.shields.io/badge/Streamlit-1.22.0-red.svg)
+
 
 An AI-powered sales and inventory forecasting system that helps retailers optimize inventory levels, reduce costs, and improve customer satisfaction through data-driven predictions.
 
