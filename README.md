@@ -75,7 +75,7 @@ MIT License
 - statsmodels, streamlit
 
 ## Algorithm
-- LSTM (Long Short-Term Memory) for sequence-based demand forecasting
+- Random Forest Regressor from scikit-learn
 
 ## Input Data
 - Product ID
