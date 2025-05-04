@@ -61,12 +61,12 @@ MIT License
 2. **Data Preprocessing**: Clean and organize time series data (e.g., product-wise monthly/weekly sales)
 3. **Feature Engineering**: Include time (month, day), category, holidays, and promotional events
 4. **Modeling**: Use LSTM or ARIMA for time series prediction
-5. **Deployment**: Build a dashboard (e.g., in Streamlit) for real-time inventory insights
+
 
 ## Technologies Used
 - Python (Pandas, Scikit-learn, Keras/TensorFlow)
 - Jupyter Notebook
-- Streamlit (for dashboard)
+- HTML (for dashboard)
 - SQLite/CSV (for data storage)
 
 ## Libraries
